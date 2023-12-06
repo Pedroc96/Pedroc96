@@ -1,5 +1,4 @@
 # pedroCunha
-ReadMe.md
-![JS Badge](https://img.shields.io/badge/JS-original?style=flat-square&logo=javascript)
+ReadMe.md![JS Badge](https://img.shields.io/badge/JS-%23f7df1e?style=flat-square&logo=javascript&label=JS&logoWidth=40)
 
 
