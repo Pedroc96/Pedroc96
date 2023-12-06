@@ -17,8 +17,12 @@
 ⚡ Fun fact: The first computer mouse was made of wood! In 1964, Douglas Engelbart developed the first prototype at the Stanford Research Institute, and it had two perpendicular wheels, earning it the nickname "mouse."
 
  </div>
+
+ <br/>
  
  <hr/>
+
+ <br/>
  
 <h2 align="center"> 📝 Languages 📝 </h2>
 <div align="center">
@@ -35,11 +39,11 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git,mysql" />
 </div>
 
+<br/>
+
+<hr/>
 
 <br/>
-<hr/>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -49,6 +53,5 @@
   <img width=325 align="center" src="https://github-readme-stats-pedroc96.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
 
-<hr/>
+
