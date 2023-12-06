@@ -20,17 +20,17 @@
  
  <hr/>
  
-<h2 align="center"> :hammer_and_wrench: Languages :hammer_and_wrench: </h2>
+<h2 align="center"> 📝 Languages 📝 </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </div>
 
-<h2 align="center"> :hammer_and_wrench: Frameworks :hammer_and_wrench: </h2>
+<h2 align="center"> 🧰  Frameworks 🧰  </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,nodejs,express" />
 </div>
 
-<h2 align="center"> :hammer_and_wrench: Tools :hammer_and_wrench: </h2>
+<h2 align="center"> 🛠️ Tools 🛠️: </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git,mysql" />
 </div>
@@ -44,8 +44,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-pedroc96.vercel.app/?user=pedroc96&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-pedroc96.vercel.app/api?username=pedroc96&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pedroc96&theme=highcontrast&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-pedroc96.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
