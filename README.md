@@ -4,7 +4,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=135AF7&center=true&vCenter=true&random=false&width=435&lines=Hello+World!;I'M+Pedro++Cunha" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from Portugal 🇵🇹</h3>
+<h3 align="center">A passionate software developer from Portugal :portugal: </h3>
 
 <br/>
 
@@ -20,17 +20,17 @@
  
  <hr/>
  
-<h2 align="center">:hammer_and_wrench: Languages :hammer_and_wrench:</h2>
+<h2 align="center"> :hammer_and_wrench: Languages :hammer_and_wrench: </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </div>
 
-<h2 align="center">:hammer_and_wrench: Frameworks :hammer_and_wrench:</h2>
+<h2 align="center"> :hammer_and_wrench: Frameworks :hammer_and_wrench: </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,nodejs,express" />
 </div>
 
-<h2 align="center">:hammer_and_wrench: Tools :hammer_and_wrench:</h2>
+<h2 align="center"> :hammer_and_wrench: Tools :hammer_and_wrench: </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git,mysql" />
 </div>
