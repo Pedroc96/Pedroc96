@@ -10,19 +10,17 @@
 
 <div align="center">
  
- 🔭 I’m currently working on exciting projects.
+  🔭 I’m currently working on exciting projects.
 
- 🌱 I’m currently learning new technologies and improving my skills.
+  🌱 I’m currently learning new technologies and improving my skills.
 
-⚡ Fun fact: The first computer mouse was made of wood! In 1964, Douglas Engelbart developed the first prototype at the Stanford Research Institute, and it had two perpendicular wheels, earning it the nickname "mouse."
+  ⚡ Fun fact: The first computer mouse was made of wood! In 1964, Douglas Engelbart developed the first prototype at the Stanford Research Institute, and it had two perpendicular wheels, earning it the nickname "mouse."
 
- </div>
+</div>
 
- <br/>
- 
- <hr/>
+<br/>
+<hr/>
 
- 
 <h2 align="center"> 📝 Languages 📝 </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,php" />
@@ -52,10 +50,10 @@
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pedroc96&theme=nord&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=Pedroc96&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroc96&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Pedroc96&theme=nord&hide_border=false)
+  <br/>
+  ![](https://github-readme-stats.vercel.app/api?username=Pedroc96&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
+  <br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroc96&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
