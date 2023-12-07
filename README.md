@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pedroc96.pedroc96" />
+
 
 <h3 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&size=40&color=135AF7&center=true&vCenter=true&random=false&width=545&lines=Hello+World!;I'M+Pedro++Cunha" alt="Typing SVG" /></a>
