@@ -23,21 +23,21 @@
 
 <h2 align="center"> 📝 Languages 📝 </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,sql" />
 </div>
 
 <br/>
 
 <h2 align="center"> 🧰  Frameworks 🧰  </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,laravel,jquery" />
 </div>
 
 <br/>
 
 <h2 align="center"> 🛠️ Tools 🛠️ </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,mysql" />
 </div>
 
 <br/>
